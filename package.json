@@ -26,7 +26,7 @@
   "homepage": "https://github.com/scrypt-sv/rabin#readme",
   "dependencies": {
     "bigint-buffer": "^1.1.5",
-    "bsv": "0.27.1 - 1.5.4 || ^1.5.4"
+    "bsv": "git+https://git@github.com/scrypt-sv/bsv.git#07f0d3c688a979d0b5d5cfe5e96c53f52fce6d58"
   },
   "files": [
     "src/rabin.js",
